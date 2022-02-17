@@ -1,1 +1,3 @@
 rootProject.name = 'Toll_Strelnik'
+include 'Common'
+
