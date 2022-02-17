@@ -1,3 +1,5 @@
 rootProject.name = 'Toll_Strelnik'
 include 'Common'
+include 'Server-core'
+include 'Tracker-core'
 
